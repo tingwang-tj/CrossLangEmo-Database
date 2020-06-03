@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.479342403628118 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "peaks" 
+        xmin = 0 
+        xmax = 3.479342403628118 
+        points: size = 12 
+        points [1]:
+            number = 0.4744757047323648 
+            mark = "1" 
+        points [2]:
+            number = 0.6350793746261244 
+            mark = "2" 
+        points [3]:
+            number = 0.7630976624747958 
+            mark = "3" 
+        points [4]:
+            number = 1.0675672867345578 
+            mark = "4" 
+        points [5]:
+            number = 1.349353543921959 
+            mark = "5" 
+        points [6]:
+            number = 1.617748851209035 
+            mark = "6" 
+        points [7]:
+            number = 1.8730683019305523 
+            mark = "7" 
+        points [8]:
+            number = 2.082831778162435 
+            mark = "8" 
+        points [9]:
+            number = 2.3137364909543705 
+            mark = "9" 
+        points [10]:
+            number = 2.6030598224424617 
+            mark = "10" 
+        points [11]:
+            number = 2.703116222084194 
+            mark = "11" 
+        points [12]:
+            number = 3.0456717541791303 
+            mark = "12" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 3.479342403628118 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27159031728563676 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.27159031728563676 
+            xmax = 0.5273105972769464 
+            text = "1" 
+        intervals [3]:
+            xmin = 0.5273105972769464 
+            xmax = 0.8939456975054506 
+            text = "#" 
+        intervals [4]:
+            xmin = 0.8939456975054506 
+            xmax = 1.171232748098437 
+            text = "2" 
+        intervals [5]:
+            xmin = 1.171232748098437 
+            xmax = 1.316038207852552 
+            text = "#" 
+        intervals [6]:
+            xmin = 1.316038207852552 
+            xmax = 1.539671201814059 
+            text = "3" 
+        intervals [7]:
+            xmin = 1.539671201814059 
+            xmax = 1.747671201814059 
+            text = "4" 
+        intervals [8]:
+            xmin = 1.747671201814059 
+            xmax = 1.9716712018140592 
+            text = "5" 
+        intervals [9]:
+            xmin = 1.9716712018140592 
+            xmax = 2.211671201814059 
+            text = "6" 
+        intervals [10]:
+            xmin = 2.211671201814059 
+            xmax = 2.483671201814059 
+            text = "7" 
+        intervals [11]:
+            xmin = 2.483671201814059 
+            xmax = 2.691671201814059 
+            text = "8" 
+        intervals [12]:
+            xmin = 2.691671201814059 
+            xmax = 2.915671201814059 
+            text = "9" 
+        intervals [13]:
+            xmin = 2.915671201814059 
+            xmax = 3.203671201814059 
+            text = "10" 
+        intervals [14]:
+            xmin = 3.203671201814059 
+            xmax = 3.479342403628118 
+            text = "#" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 3.479342403628118 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27159031728563676 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.27159031728563676 
+            xmax = 3.203671201814059 
+            text = "1" 
+        intervals [3]:
+            xmin = 3.203671201814059 
+            xmax = 3.479342403628118 
+            text = "#" 

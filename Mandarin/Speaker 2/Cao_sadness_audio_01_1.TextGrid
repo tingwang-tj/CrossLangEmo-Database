@@ -1,0 +1,288 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.13560090703 
+tiers? <exists> 
+size = 8 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "IPU" 
+        xmin = 0 
+        xmax = 3.13560090703 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.558752834467 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.558752834467 
+            xmax = 2.64041581247 
+            text = "我不敢相信这是真的" 
+        intervals [3]:
+            xmin = 2.64041581247 
+            xmax = 3.13560090703 
+            text = "#" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Tokens-Std" 
+        xmin = 0 
+        xmax = 3.13560090703 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.558752834467 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.558752834467 
+            xmax = 2.64041581247 
+            text = "我 不敢相信 这 是 真 的" 
+        intervals [3]:
+            xmin = 2.64041581247 
+            xmax = 3.13560090703 
+            text = "#" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Tokens-Faked" 
+        xmin = 0 
+        xmax = 3.13560090703 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.558752834467 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.558752834467 
+            xmax = 2.64041581247 
+            text = "我 不敢相信 这 是 真 的" 
+        intervals [3]:
+            xmin = 2.64041581247 
+            xmax = 3.13560090703 
+            text = "#" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Phonetization" 
+        xmin = 0 
+        xmax = 3.13560090703 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.558752834467 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.558752834467 
+            xmax = 2.64041581247 
+            text = "u.o p.u.k.a.n.ss.i.a.N.ss.i.n ts`.S s`.i` ts`.S.n t.S|t.i|t.i" 
+        intervals [3]:
+            xmin = 2.64041581247 
+            xmax = 3.13560090703 
+            text = "#" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "PhonAlign" 
+        xmin = 0 
+        xmax = 3.1356 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5587 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.5587 
+            xmax = 0.5937 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.5937 
+            xmax = 0.6952353512705947 
+            text = "o" 
+        intervals [4]:
+            xmin = 0.6952353512705947 
+            xmax = 0.786200445407221 
+            text = "p" 
+        intervals [5]:
+            xmin = 0.786200445407221 
+            xmax = 0.8387580553528273 
+            text = "u" 
+        intervals [6]:
+            xmin = 0.8387580553528273 
+            xmax = 0.9137 
+            text = "k" 
+        intervals [7]:
+            xmin = 0.9137 
+            xmax = 0.9837 
+            text = "a" 
+        intervals [8]:
+            xmin = 0.9837 
+            xmax = 1.0550528347443613 
+            text = "n" 
+        intervals [9]:
+            xmin = 1.0550528347443613 
+            xmax = 1.160168054635574 
+            text = "ss" 
+        intervals [10]:
+            xmin = 1.160168054635574 
+            xmax = 1.2046398784357024 
+            text = "i" 
+        intervals [11]:
+            xmin = 1.2046398784357024 
+            xmax = 1.2637 
+            text = "a" 
+        intervals [12]:
+            xmin = 1.2637 
+            xmax = 1.3239052240815012 
+            text = "N" 
+        intervals [13]:
+            xmin = 1.3239052240815012 
+            xmax = 1.4047630855362803 
+            text = "ss" 
+        intervals [14]:
+            xmin = 1.4047630855362803 
+            xmax = 1.5078568588911234 
+            text = "i" 
+        intervals [15]:
+            xmin = 1.5078568588911234 
+            xmax = 1.7737 
+            text = "n" 
+        intervals [16]:
+            xmin = 1.7737 
+            xmax = 1.8654761035687686 
+            text = "ts`" 
+        intervals [17]:
+            xmin = 1.8654761035687686 
+            xmax = 1.9037 
+            text = "S" 
+        intervals [18]:
+            xmin = 1.9037 
+            xmax = 1.9637 
+            text = "s`" 
+        intervals [19]:
+            xmin = 1.9637 
+            xmax = 2.0433633983613793 
+            text = "i`" 
+        intervals [20]:
+            xmin = 2.0433633983613793 
+            xmax = 2.140392831884621 
+            text = "ts`" 
+        intervals [21]:
+            xmin = 2.140392831884621 
+            xmax = 2.2596581772569397 
+            text = "S" 
+        intervals [22]:
+            xmin = 2.2596581772569397 
+            xmax = 2.4037 
+            text = "n" 
+        intervals [23]:
+            xmin = 2.4037 
+            xmax = 2.4337 
+            text = "t" 
+        intervals [24]:
+            xmin = 2.4337 
+            xmax = 2.6404 
+            text = "S" 
+        intervals [25]:
+            xmin = 2.6404 
+            xmax = 3.1356 
+            text = "#" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "PhnTokAlign" 
+        xmin = 0 
+        xmax = 3.1356 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5587 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.5587 
+            xmax = 0.6637 
+            text = "u.o" 
+        intervals [3]:
+            xmin = 0.6637 
+            xmax = 1.7737 
+            text = "p.u.k.a.n.ss.i.a.N.ss.i.n" 
+        intervals [4]:
+            xmin = 1.7737 
+            xmax = 1.9037 
+            text = "ts`.S" 
+        intervals [5]:
+            xmin = 1.9037 
+            xmax = 2.0037 
+            text = "s`.i`" 
+        intervals [6]:
+            xmin = 2.0037 
+            xmax = 2.4037 
+            text = "ts`.S.n" 
+        intervals [7]:
+            xmin = 2.4037 
+            xmax = 2.6404 
+            text = "t.S" 
+        intervals [8]:
+            xmin = 2.6404 
+            xmax = 3.1356 
+            text = "#" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = 0 
+        xmax = 3.1356 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5587 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.5587 
+            xmax = 0.6952353512705947 
+            text = "我" 
+        intervals [3]:
+            xmin = 0.6952353512705947 
+            xmax = 0.8387580553528273 
+            text = "不" 
+        intervals [4]:
+            xmin = 0.8387580553528273 
+            xmax = 1.0550528347443613 
+            text = "敢" 
+        intervals [5]:
+            xmin = 1.0550528347443613 
+            xmax = 1.3239052240815012 
+            text = "相" 
+        intervals [6]:
+            xmin = 1.3239052240815012 
+            xmax = 1.7737 
+            text = "信" 
+        intervals [7]:
+            xmin = 1.7737 
+            xmax = 1.9037 
+            text = "这" 
+        intervals [8]:
+            xmin = 1.9037 
+            xmax = 2.0433633983613793 
+            text = "是" 
+        intervals [9]:
+            xmin = 2.0433633983613793 
+            xmax = 2.4037 
+            text = "真" 
+        intervals [10]:
+            xmin = 2.4037 
+            xmax = 2.6404 
+            text = "的" 
+        intervals [11]:
+            xmin = 2.6404 
+            xmax = 3.1356 
+            text = "#" 
+    item [8]:
+        class = "IntervalTier" 
+        name = "Information" 
+        xmin = 0 
+        xmax = 3.13560090703 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.56780045352 
+            text = "This annotation was generated by SPPAS 1.6 on 2014-08-01" 
+        intervals [2]:
+            xmin = 1.56780045352 
+            xmax = 3.13560090703 
+            text = "Copyright (C) 2011-2014 LPL Laboratory" 

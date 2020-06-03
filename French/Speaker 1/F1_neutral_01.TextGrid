@@ -1,0 +1,496 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.2230625
+tiers? <exists>
+size = 11
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Transcription"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "#"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 1.785
+			text = "Je n’arrive pas à croire que ce soit vrai."
+		intervals [3]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "Tokens"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "#"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 1.785
+			text = "je
+n'
+arrive
+pas
+à
+croire
+que
+ce
+soit
+vrai"
+		intervals [3]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = "#"
+	item [3]:
+		class = "IntervalTier"
+		name = "Occ-Tokens"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "1"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 1.785
+			text = "10"
+		intervals [3]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = "1"
+	item [4]:
+		class = "IntervalTier"
+		name = "Dur-Tokens"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "0.22"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 1.785
+			text = "1.565"
+		intervals [3]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = "0.4381"
+	item [5]:
+		class = "IntervalTier"
+		name = "Phones"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "sil"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 1.785
+			text = "{Z|Z-@|S}
+n
+{A/-R-i-v-@|A/-R-i-v}
+{p-A/-z|p-A/}
+A/
+{k-R-w-A/-R|k-R-w-A/-R-@}
+{k|k-@}
+{s-e-2|s|s-@}
+{s-w-A/-t|s-w-A/}
+{v-R-E|v-R-e}"
+		intervals [3]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = "sil"
+	item [6]:
+		class = "IntervalTier"
+		name = "PhonAlign"
+		xmin = 0.0
+		xmax = 2.223063
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "#"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 0.35
+			text = "Z"
+		intervals [3]:
+			xmin = 0.35
+			xmax = 0.4
+			text = "@"
+		intervals [4]:
+			xmin = 0.4
+			xmax = 0.45999999999999996
+			text = "n"
+		intervals [5]:
+			xmin = 0.45999999999999996
+			xmax = 0.56
+			text = "A/"
+		intervals [6]:
+			xmin = 0.56
+			xmax = 0.59
+			text = "R"
+		intervals [7]:
+			xmin = 0.59
+			xmax = 0.73
+			text = "i"
+		intervals [8]:
+			xmin = 0.73
+			xmax = 0.77
+			text = "v"
+		intervals [9]:
+			xmin = 0.77
+			xmax = 0.8099999999999999
+			text = "p"
+		intervals [10]:
+			xmin = 0.8099999999999999
+			xmax = 1.03
+			text = "A/"
+		intervals [11]:
+			xmin = 1.03
+			xmax = 1.07
+			text = "A/"
+		intervals [12]:
+			xmin = 1.07
+			xmax = 1.1
+			text = "k"
+		intervals [13]:
+			xmin = 1.1
+			xmax = 1.1400000000000001
+			text = "R"
+		intervals [14]:
+			xmin = 1.1400000000000001
+			xmax = 1.17
+			text = "w"
+		intervals [15]:
+			xmin = 1.17
+			xmax = 1.23
+			text = "A/"
+		intervals [16]:
+			xmin = 1.23
+			xmax = 1.34
+			text = "R"
+		intervals [17]:
+			xmin = 1.34
+			xmax = 1.38
+			text = "k"
+		intervals [18]:
+			xmin = 1.38
+			xmax = 1.41
+			text = "@"
+		intervals [19]:
+			xmin = 1.41
+			xmax = 1.47
+			text = "s"
+		intervals [20]:
+			xmin = 1.47
+			xmax = 1.51
+			text = "s"
+		intervals [21]:
+			xmin = 1.51
+			xmax = 1.54
+			text = "w"
+		intervals [22]:
+			xmin = 1.54
+			xmax = 1.57
+			text = "A/"
+		intervals [23]:
+			xmin = 1.57
+			xmax = 1.69
+			text = "t"
+		intervals [24]:
+			xmin = 1.69
+			xmax = 1.72
+			text = "v"
+		intervals [25]:
+			xmin = 1.72
+			xmax = 1.75
+			text = "R"
+		intervals [26]:
+			xmin = 1.75
+			xmax = 1.785
+			text = "E"
+		intervals [27]:
+			xmin = 1.785
+			xmax = 2.223063
+			text = "#"
+	item [7]:
+		class = "IntervalTier"
+		name = "TokensAlign"
+		xmin = 0.0
+		xmax = 2.223063
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "#"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 0.4
+			text = "je"
+		intervals [3]:
+			xmin = 0.4
+			xmax = 0.45999999999999996
+			text = "n'"
+		intervals [4]:
+			xmin = 0.45999999999999996
+			xmax = 0.77
+			text = "arrive"
+		intervals [5]:
+			xmin = 0.77
+			xmax = 1.03
+			text = "pas"
+		intervals [6]:
+			xmin = 1.03
+			xmax = 1.07
+			text = "à"
+		intervals [7]:
+			xmin = 1.07
+			xmax = 1.34
+			text = "croire"
+		intervals [8]:
+			xmin = 1.34
+			xmax = 1.41
+			text = "que"
+		intervals [9]:
+			xmin = 1.41
+			xmax = 1.47
+			text = "ce"
+		intervals [10]:
+			xmin = 1.47
+			xmax = 1.69
+			text = "soit"
+		intervals [11]:
+			xmin = 1.69
+			xmax = 1.785
+			text = "vrai"
+		intervals [12]:
+			xmin = 1.785
+			xmax = 2.223063
+			text = "#"
+	item [8]:
+		class = "IntervalTier"
+		name = "PronTokAlign"
+		xmin = 0.0
+		xmax = 2.223063
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = "#"
+		intervals [2]:
+			xmin = 0.22
+			xmax = 0.4
+			text = "Z-@"
+		intervals [3]:
+			xmin = 0.4
+			xmax = 0.45999999999999996
+			text = "n"
+		intervals [4]:
+			xmin = 0.45999999999999996
+			xmax = 0.77
+			text = "A/-R-i-v"
+		intervals [5]:
+			xmin = 0.77
+			xmax = 1.03
+			text = "p-A/"
+		intervals [6]:
+			xmin = 1.03
+			xmax = 1.07
+			text = "A/"
+		intervals [7]:
+			xmin = 1.07
+			xmax = 1.34
+			text = "k-R-w-A/-R"
+		intervals [8]:
+			xmin = 1.34
+			xmax = 1.41
+			text = "k-@"
+		intervals [9]:
+			xmin = 1.41
+			xmax = 1.47
+			text = "s"
+		intervals [10]:
+			xmin = 1.47
+			xmax = 1.69
+			text = "s-w-A/-t"
+		intervals [11]:
+			xmin = 1.69
+			xmax = 1.785
+			text = "v-R-E"
+		intervals [12]:
+			xmin = 1.785
+			xmax = 2.223063
+			text = "#"
+	item [9]:
+		class = "IntervalTier"
+		name = "SyllAlign"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = ""
+		intervals [2]:
+			xmin = 0.22
+			xmax = 0.4
+			text = "Z-@"
+		intervals [3]:
+			xmin = 0.4
+			xmax = 0.56
+			text = "n-A/"
+		intervals [4]:
+			xmin = 0.56
+			xmax = 0.77
+			text = "R-i-v"
+		intervals [5]:
+			xmin = 0.77
+			xmax = 1.03
+			text = "p-A/"
+		intervals [6]:
+			xmin = 1.03
+			xmax = 1.07
+			text = "A/"
+		intervals [7]:
+			xmin = 1.07
+			xmax = 1.34
+			text = "k-R-w-A/-R"
+		intervals [8]:
+			xmin = 1.34
+			xmax = 1.47
+			text = "k-@-s"
+		intervals [9]:
+			xmin = 1.47
+			xmax = 1.69
+			text = "s-w-A/-t"
+		intervals [10]:
+			xmin = 1.69
+			xmax = 1.785
+			text = "v-R-E"
+		intervals [11]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = ""
+	item [10]:
+		class = "IntervalTier"
+		name = "SyllClassAlign"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.22
+			text = ""
+		intervals [2]:
+			xmin = 0.22
+			xmax = 0.4
+			text = "F-V"
+		intervals [3]:
+			xmin = 0.4
+			xmax = 0.56
+			text = "N-V"
+		intervals [4]:
+			xmin = 0.56
+			xmax = 0.77
+			text = "L-V-F"
+		intervals [5]:
+			xmin = 0.77
+			xmax = 1.03
+			text = "P-V"
+		intervals [6]:
+			xmin = 1.03
+			xmax = 1.07
+			text = "V"
+		intervals [7]:
+			xmin = 1.07
+			xmax = 1.34
+			text = "P-L-G-V-L"
+		intervals [8]:
+			xmin = 1.34
+			xmax = 1.47
+			text = "P-V-F"
+		intervals [9]:
+			xmin = 1.47
+			xmax = 1.69
+			text = "F-G-V-P"
+		intervals [10]:
+			xmin = 1.69
+			xmax = 1.785
+			text = "F-L-V"
+		intervals [11]:
+			xmin = 1.785
+			xmax = 2.2230625
+			text = ""
+	item [11]:
+		class = "IntervalTier"
+		name = "MetaInformation"
+		xmin = 0.0
+		xmax = 2.2230625
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.171
+			text = "id=339cca86-d5d5-46ea-a3f8-59cc8cf27695"
+		intervals [2]:
+			xmin = 0.171
+			xmax = 0.342
+			text = "software_name=SPPAS"
+		intervals [3]:
+			xmin = 0.342
+			xmax = 0.513
+			text = "software_version=2.8"
+		intervals [4]:
+			xmin = 0.513
+			xmax = 0.684
+			text = "software_url=http://www.sppas.org/"
+		intervals [5]:
+			xmin = 0.684
+			xmax = 0.8550000000000001
+			text = "software_author=Brigitte Bigi"
+		intervals [6]:
+			xmin = 0.8550000000000001
+			xmax = 1.026
+			text = "software_contact=contact@sppas.org"
+		intervals [7]:
+			xmin = 1.026
+			xmax = 1.197
+			text = "software_copyright=Copyright (C) 2011-2020 Brigitte Bigi"
+		intervals [8]:
+			xmin = 1.197
+			xmax = 1.368
+			text = "language_iso=iso639-3"
+		intervals [9]:
+			xmin = 1.368
+			xmax = 1.5390000000000001
+			text = "language_code_0=und"
+		intervals [10]:
+			xmin = 1.5390000000000001
+			xmax = 1.7100000000000002
+			text = "language_name_0=Undetermined"
+		intervals [11]:
+			xmin = 1.7100000000000002
+			xmax = 1.8810000000000002
+			text = "language_url_0=https://iso639-3.sil.org/code/und"
+		intervals [12]:
+			xmin = 1.8810000000000002
+			xmax = 2.052
+			text = "file_license_text_0=GNU GPL V3"
+		intervals [13]:
+			xmin = 2.052
+			xmax = 2.2230625
+			text = "file_license_url_0=https://www.gnu.org/licenses/gpl-3.0.en.html"
